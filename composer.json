@@ -1,0 +1,19 @@
+{
+    "name": "alanvdb/stream-exceptions",
+    "description": "Exception library for streams.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "AlanVdb\\Http\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "alanvdb",
+            "email": "alanvdb.coder@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
